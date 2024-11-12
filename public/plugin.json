@@ -1,0 +1,11 @@
+{
+  "main": "index.html",
+  "logo": "./plugin-logo.png",
+  "features": [
+    {
+      "code": "zz-json",
+      "explain": "自用json格式化插件",
+      "cmds": ["zz-json", "json", "zz"]
+    }
+  ]
+}
